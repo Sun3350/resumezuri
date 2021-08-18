@@ -1,2 +1,0 @@
-# resumezuri
-myresume
